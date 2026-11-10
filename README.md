@@ -10,5 +10,6 @@ Este repositorio es especial: como se llama igual que la dirección de la organi
 - **Portada del CEI** con enlace a sus proyectos. Para sumar un proyecto nuevo, copiá el bloque `<a class="project" …>` de `index.html` y cambiá el enlace, la imagen y el texto.
 - **`robots.txt`**: solo funciona en la raíz del sitio; le indica a los buscadores dónde está el mapa del sitio de Descubrí Artigas.
 - **`404.html`**: la página que se muestra cuando alguien entra a una dirección que no existe.
+- **`google63d47089fb676f9d.html`**: confirma ante Google Search Console que el sitio es del CEI. No hay que borrarlo.
 
 Las visitas se cuentan con Cloudflare Web Analytics, igual que en Descubrí Artigas.
